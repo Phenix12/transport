@@ -1,0 +1,4 @@
+#080842;/* >bleu (achromatomalie)
+#ffb600; >jaune
+#004943; > (tritanopia)
+#008000 > vert marrain
